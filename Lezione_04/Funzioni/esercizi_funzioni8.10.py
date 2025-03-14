@@ -11,3 +11,4 @@ def send_messages(messaggi):
 
         print(f"{messaggi=}\n {sent_messages=}\n\n")
 send_messages(lista_messaggi)
+
